@@ -1,4 +1,4 @@
-# [research_about_NeRF](https://github.com/huzhenbang/research_about_Data_Mining)
+# [research_about_Data_Mining](https://github.com/huzhenbang/research_about_Data_Mining)
 
 This is a curated list of the resources of research about Data Mining. 
 
